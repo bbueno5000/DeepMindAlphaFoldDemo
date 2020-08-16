@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "deepmind_alphafold_demo", "deepmind_alphafold_demo\deepmind_alphafold_demo.pyproj", "{429C38CD-79E5-4341-8BEF-CFF00AA6A119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429C38CD-79E5-4341-8BEF-CFF00AA6A119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429C38CD-79E5-4341-8BEF-CFF00AA6A119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CB016E6-9276-451B-97B7-202821F29F34}
+	EndGlobalSection
+EndGlobal
